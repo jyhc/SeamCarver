@@ -1,0 +1,2 @@
+# SeamCarver
+The Seam Carver is an assignment from Algorithms, Part II on Coursera. It uses the tological shortest path tree algorithm to search for a vertical and horizontal path of lowest pixel energy values. A pixel energy value is derived from differences in neighbouring pixel rgb values and represents how significant a pixel is in the picture. This concept helps create a content aware picture resizing algorithm that helps address distortions that arise from conventional picture scaling. 
